@@ -19,4 +19,4 @@ The goal of our app is to be able to configure the light to be able to change ac
 
 # Languages
 
-The language we plan on using to develop this app is Java.
+The language we plan on using to develop this app is Python.
