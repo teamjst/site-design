@@ -19,4 +19,4 @@ The goal of our app is to be able to configure the light to be able to change ac
 
 # Languages
 
-The language we plan on using to develop this app is Python.
+The language we plan on using to develop this app is Python. To be able to connect and control our yeelight, we will be using a Python library. More about this library here: [python-yeelight](https://github.com/skorokithakis/python-yeelight)
