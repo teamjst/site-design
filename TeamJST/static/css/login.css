@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background: #007991;  /* fallback for old browsers */
+    background-repeat: no-repeat;
+    background: -webkit-linear-gradient(#78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(#78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+    font-family: 'Lato'; 
+    color: white; 
+    padding-left: 110px; 
+    letter-spacing: 5px; 
+    padding-bottom: 5px; 
+    font-size: 90px; 
+    font-weight: 250;
+}
+
+
+#logo {
+    padding-top: 100px; 
+    padding-left: 100px; 
+    width: 230px;
+}
