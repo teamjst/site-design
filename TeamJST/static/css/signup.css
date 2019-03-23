@@ -30,14 +30,13 @@ h1 {
 
 .form-area{
     position: absolute;
-    top: 500px;
+    top: 520px;
     left: 50%;
     transform: translate(-50%,-50%);
     font-family: 'Raleway';
     font-weight: 300;
-    width: 370px;
     color: white;
-    
+    width: 370px;
     padding: 40px;
 }
 
@@ -95,6 +94,7 @@ h3 {
     border: 1px solid white;
     letter-spacing: 4px;
     cursor: pointer;
+    
 }
 
 .form-area input[type=submit]:hover,
@@ -113,7 +113,7 @@ h3 {
 }
 
 .form-area a:hover{
-    color: #06534C;
+    color: blueviolet;
 }
 
 
