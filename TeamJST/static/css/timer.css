@@ -87,22 +87,92 @@ img {
     width: 100%;
 }
 
-.slick-prev:before{
-    color: white !important;
-    -webkit-text-stroke: 1px !important;
+
+.sectionB {
+    position: absolute;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    font-family: 'Raleway';
+    font-weight: 300;
+    width: 520px;
+    color: white;
+    padding: 40px;
+    top: 320px;
 }
 
-.slick-next:before{
-    color: white !important;
-    -webkit-text-stroke: 1px !important;
+h3 {
+    font-family: 'Josefin Sans';
+    margin: 0;
+    padding: 3px 0 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    padding-bottom: 40px;
+    display: block;
+    text-align: right;
+    float: left;
 }
 
-.slick-dots li.slick-active button:before{
-    color: white !important;
+.sectionB input {
+    font-family: 'Josefin Sans';
+    background: rgba(0,0,0,0.25);
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 270px;
+    font-size: 15px;
+    font-weight: 400;
 }
 
-.slick-dots li button:before {
-    color: white !important;
+.sectionB:after {
+     content: '>';
+    position: absolute;
+    right: 100px;
+    top: 48px;
+	width: 0; 
+	height: 0; 
 }
 
+
+.sectionC {
+    position: absolute;
+    left: 53%;
+    transform: translate(-50%,-50%);
+    font-family: 'Raleway';
+    font-weight: 300;
+    width: 520px;
+    color: white;
+    padding: 40px;
+    top: 520px;
+}
+
+.sectionC input {
+    font-family: 'Josefin Sans';
+    background: rgba(0,0,0,0.25);
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 270px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 24px;
+}
+
+.sectionC:after {
+     content: '>';
+    position: absolute;
+    right: 100px;
+    top: 48px;
+	width: 0; 
+	height: 0; 
+}
+
+.wickedpicker {
+    width: 292px;
+    
+}
 
